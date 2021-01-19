@@ -1,0 +1,31 @@
+#dashboard-profile-picture-bar-container {
+  margin-left: 60px;
+  background-color: white;
+}
+#dashboard-profile-picture-bar-socials-list {
+  list-style-type: none;
+  padding: 0;
+}
+#dashboard-profile-picture-bar-socials-list li {
+  padding: 10px 0;
+  padding-left: 10px;
+  border-top: 0.2px solid gray;
+  border-bottom: 0.2px solid gray;
+}
+#dashboard-profile-picture-bar-socials-list li a {
+  text-decoration: none;
+}
+.dashboard-profile-picture-bar-texts {
+  text-align: center;
+}
+#dashboard-profile-picture-bar-pic-container {
+  position: relative;
+}
+#dashboard-profile-picture-bar-pic-container img {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  left: 36%;
+  top: -60px;
+}

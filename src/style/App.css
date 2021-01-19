@@ -1,0 +1,29 @@
+p, body {
+  padding: 0;
+  margin: 0;
+}
+.clear-box {
+  clear: both;
+}
+#app-container {
+  background-color: #f2f2f2;
+}
+.pointer-icon {
+  cursor: pointer;
+}
+.dashboard-cols-spacing {
+  padding: 0 10px 0 10px;
+}
+#dashboard-right-col {
+  padding-right: 100px;
+  padding-top: 60px;
+}
+#dashboard-right-col-setting-btn-container {
+  float: right;
+}
+#dashboard-right-col-setting-btn {
+  margin-left: 6px;
+}
+#dashboard-right-col-portfolio-box-container {
+  padding-top: 30px;
+}

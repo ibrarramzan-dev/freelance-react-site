@@ -1,0 +1,71 @@
+#feed-container {
+  width: 100%;
+  height: 350px;
+  background-color: white;
+  /* padding: 15px; */
+  padding: 15px 0 0 15px;
+  margin-bottom: 15px;
+}
+#feed-name-nd-last-active {
+  margin-left: 15px;
+}
+#feed-post-freelancer-name {
+  font-weight: bold;
+  font-size: 20px;
+}
+#feed-avatar-nd-last-active-container {
+  display: flex;
+  flex-direction: start;
+  margin-top: 15px;
+}
+#feed-avatar img {
+  width: 70px;
+  height: 70px;
+  border-radius: 40px;
+}
+#feed-freelancer-info-container {
+  width: 100%;
+  display: flex;
+  flex-direction: start;
+  margin-top: 15px;
+}
+#freelancer-status {
+  width: 20%;
+}
+#freelancer-location {
+  width: 40%;
+}
+#feed-post-bookmark-nd-msg {
+  width: 40%;
+}
+#feed-post-bookmark-nd-msg div {
+  float: right;
+  margin-right: 10px;
+}
+#feed-post-email-icon {
+  margin-left: 10px;
+}
+#feed-row-4 {
+  display: flex;
+  flex-direction: start;
+  margin-top: 15px;
+}
+#feed-post-freelancer-rate {
+  margin-left: 10px;
+  font-size: 19px;
+  font-weight: bold;
+}
+#freelancer-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+#feed-post-description {
+  color: darkslategray;
+  margin-top: 15px;
+}
+#feed-post-tags-container {
+  margin-top: 10px;
+}
+#feed-post-tags-container * {
+  margin-left: 7px;
+}
